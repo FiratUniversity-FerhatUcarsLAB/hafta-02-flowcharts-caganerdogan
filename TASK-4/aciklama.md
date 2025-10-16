@@ -1,3 +1,1 @@
-
-
-sistemin kısa açıklaması (maks. 5-6 satır)
+Üniversite Ders Kayıt Sistemi, öğrencilerin dönemlik ders yükünü belirlemesini sağlayan yapılandırılmış bir süreç sunar. Öğrenci sisteme giriş yaparak kendisine sunulan dersler arasından seçim yapar. Sistem, bu seçimler sırasında anında kontenjan, ön koşul, zaman çakışması ve kredi limiti gibi kritik akademik kuralları kontrol eder. Tüm kontrollerden başarıyla geçen ders listesi, öğrenci onayı sonrasında kesinleşmek üzere akademik danışmanın onayına gönderilir. Kayıt, danışmanın onayıyla resmiyet kazanır.
