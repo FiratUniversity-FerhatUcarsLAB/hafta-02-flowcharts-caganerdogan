@@ -1,3 +1,1 @@
-
-
-sistemin kısa açıklaması (maks. 5-6 satır)
+Bu Akıllı Ev Güvenlik Sistemi 7/24 kesintisiz çalışır ve sürekli bir döngüde sensör verilerini işler. Sistem, algılanan veriye göre tehdit seviyesini belirler: Düşük seviyede uyarı bildirimi gönderir, yüksek seviyede ise (hırsızlık/yangın) sireni devreye sokar. Alarm durumunda telefon ve e-posta ile acil bildirimler gönderilir. Alarm, ancak kullanıcıdan gelen harici bir sıfırlama komutuyla susturulur ve sistem normal izleme moduna geri döner.
